@@ -1,0 +1,13 @@
+# Игнорировать всё, что связано с исходниками AOSP
+aosp/
+*.img
+*.zip
+*.tgz
+*.tar
+*.iso
+out/
+*.log
+*.bak
+*.swp
+.idea/
+.DS_Store
